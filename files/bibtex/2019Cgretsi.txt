@@ -1,0 +1,6 @@
+@inproceedings{seddik2018pourquoi,
+title={Pourquoi les matrices aléatoires expliquent l’apprentissage ? Un argument d’universalité offert par les GANs},
+author={Mohamed El Amine Seddik and Mohamed Tamaazousti and Romain Couillet},
+booktitle={Colloque francophone de traitement du signal et des images},
+year={2019},
+}
