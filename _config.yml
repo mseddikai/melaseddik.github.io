@@ -11,9 +11,9 @@ title                    : "Mohamed El Amine Seddik"
 title_separator          : "-"
 name                     : &name "Mohamed El Amine Seddik"
 description              : &description "Welcome to my personal webpage! I'm a french PhD student working on Random Matrix Theory and Machine Learning at CEA (Alternative Energies and Atomic Energy Commission). I am also attached to the L2S (Laboratory of Signals and Systems) laboratory of Centrale-Supélec (part of the University of Paris-Saclay)."
-url                      : https://mseddik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://melaseddik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "melaseddik/mseddik.github.io"
+repository               : "melaseddik/melaseddik.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
