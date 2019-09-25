@@ -1,0 +1,6 @@
+@inproceedings{lin2019suppression,
+title={Suppression de spécularités par réseau adverse multi-classes},
+author={John Lin and Mohamed El Amine Seddik and Mohamed Tamaazousti and Youssef Tamaazousti and Adrien Bartoli},
+booktitle={ORASIS},
+year={2019},
+}
