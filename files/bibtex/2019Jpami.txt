@@ -1,0 +1,6 @@
+@article{tamaazousti2019universal,
+  title={Learning More Universal Representations for Transfer-Learning},
+  author={Tamaazousti, Youssef and Le Borgne, Herv\'e and Hudelot, C\'eline and Seddik, Mohamed El Amine and Tamaazousti, Mohamed},
+  journal={arXiv:1712.09708},
+  year={2019}
+} 
