@@ -7,9 +7,15 @@ author_profile: true
 
 2019
 ---
-> **MEA.Seddik**, M.Tamaazousti, J.Lin, **``enerative Collaborative Networks for Single Image SuperResolution''**, *Neurocomputing'2019 (journal)* [[paper](https://hal.inria.fr/hal-01677687/document)]
+> **MEA.Seddik**, M.Tamaazousti, R.Couillet, **``Why do Random Matrices Explain Learning? An Argument of Universality
+Offered by GANs''**, *GRETSI'2019 (conference)* [[paper](https://hal.inria.fr/hal-01677687/document)]
 
-> **MEA.Seddik**, M.Tamaazousti, J.Lin, **``enerative Collaborative Networks for Single Image SuperResolution''**, *Neurocomputing'2019 (journal)* [[paper](https://hal.inria.fr/hal-01677687/document)]
+> **MEA.Seddik**, M.Tamaazousti, R.Couillet, **``Kernel Random Matrices of Large Concentrated Data: The Example of
+GAN-generated Images''**, *ICASSP'2019 (conference)* [[paper](https://hal.inria.fr/hal-01677687/document)]
+
+> **MEA.Seddik**, M.Tamaazousti, R.Couillet, **``A Kernel Random Matrix-Based Approach for Sparse PCA''**, *ICLR'2019 (conference)* [[paper](https://hal.inria.fr/hal-01677687/document)]
+
+> **MEA.Seddik**, M.Tamaazousti, J.Lin, **``Generative Collaborative Networks for Single Image SuperResolution''**, *Neurocomputing'2019 (journal)* [[paper](https://hal.inria.fr/hal-01677687/document)]
 
 > J.Lin, **MEA.Seddik**, M.Tamaazousti, Y.Tamaazousti, A.Bartoli, **``Deep Multi-class Adversarial Specularity Removal''**, *SCIA'2019 (conference)* [[paper](https://hal.inria.fr/hal-01677687/document)]
 
