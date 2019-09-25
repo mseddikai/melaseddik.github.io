@@ -13,18 +13,20 @@ data Behave as Gaussian Mixtures''**, *ICLR'2020 (submitted)*.
 2019
 ---
 > **MEA.Seddik**, M.Tamaazousti, R.Couillet, **``Why do Random Matrices Explain Learning? An Argument of Universality
-Offered by GANs''**, *GRETSI'2019*. [[paper](https://hal.inria.fr/hal-01677687/document)]
+Offered by GANs''**, *GRETSI'2019*. [[paper](https://melaseddik.github.io/files/2019Cgretsi.pdf)]
 
 > **MEA.Seddik**, M.Tamaazousti, R.Couillet, **``Kernel Random Matrices of Large Concentrated Data: The Example of
-GAN-generated Images''**, *ICASSP'2019*. [[paper](https://hal.inria.fr/hal-01677687/document)]
+GAN-generated Images''**, *ICASSP'2019*. [[paper](https://melaseddik.github.io/files/2019Cicassp.pdf)]
 
-> **MEA.Seddik**, M.Tamaazousti, R.Couillet, **``A Kernel Random Matrix-Based Approach for Sparse PCA''**, *ICLR'2019*. [[paper](https://hal.inria.fr/hal-01677687/document)]
+> **MEA.Seddik**, M.Tamaazousti, R.Couillet, **``A Kernel Random Matrix-Based Approach for Sparse PCA''**, *ICLR'2019*. [[paper](https://melaseddik.github.io/files/2019Ciclr.pdf)]
 
-> **MEA.Seddik**, M.Tamaazousti, J.Lin, **``Generative Collaborative Networks for Single Image SuperResolution''**, *Neurocomputing'2019*. [[paper](https://hal.inria.fr/hal-01677687/document)]
+> **MEA.Seddik**, M.Tamaazousti, J.Lin, **``Generative Collaborative Networks for Single Image SuperResolution''**, *Neurocomputing'2019*. [[paper](https://melaseddik.github.io/files/2019Jneurocomp.pdf)]
 
-> J.Lin, **MEA.Seddik**, M.Tamaazousti, Y.Tamaazousti, A.Bartoli, **``Deep Multi-class Adversarial Specularity Removal''**, *SCIA'2019*. [[paper](https://hal.inria.fr/hal-01677687/document)]
+> J.Lin, **MEA.Seddik**, M.Tamaazousti, Y.Tamaazousti, A.Bartoli, **``Deep Multi-class Adversarial Specularity Removal''**, *SCIA'2019*. [[paper](https://melaseddik.github.io/files/2019Cscia.pdf)]
 
-> Y.Tamaazousti, H.Le Borgne, C.Hudelot, **MEA.Seddik**, M.Tamaazousti, **``Learning More Universal Representations for Transfer-Learning''**, *TPAMI'2019*. [[paper](https://melaseddik.github.io/files/2019Jpami)]
+> J.Lin, **MEA.Seddik**, M.Tamaazousti, Y.Tamaazousti, A.Bartoli, **``Suppression de spécularités par réseau adverse multi-classes''**, *ORASIS'2019*. [[paper](https://melaseddik.github.io/files/2019Corasis.pdf)]
+
+> Y.Tamaazousti, H.Le Borgne, C.Hudelot, **MEA.Seddik**, M.Tamaazousti, **``Learning More Universal Representations for Transfer-Learning''**, *TPAMI'2019*. [[paper](https://melaseddik.github.io/files/2019Jpami.pdf)]
 
 **2018**
 ---
