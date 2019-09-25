@@ -1,0 +1,6 @@
+@inproceedings{seddik2019kernel,
+title={Kernel Random Matrices of Large Concentrated Data: The Example of GAN-Generated Images},
+author={Mohamed El Amine Seddik and Mohamed Tamaazousti and Romain Couillet},
+booktitle={International Conference on Acoustics, Speech, and Signal Processing},
+year={2019},
+}
