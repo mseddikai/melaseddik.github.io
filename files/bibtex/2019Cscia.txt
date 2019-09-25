@@ -1,0 +1,6 @@
+@inproceedings{seddik2018pourquoi,
+title={Deep Multi-class Adversarial Specularity Removal},
+author={John Lin and Mohamed El Amine Seddik and Mohamed Tamaazousti and Youssef Tamaazousti and Adrien Bartoli},
+booktitle={SCIA},
+year={2019},
+}
