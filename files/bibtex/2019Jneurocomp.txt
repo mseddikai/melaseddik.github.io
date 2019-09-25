@@ -1,0 +1,6 @@
+@article{seddik2019generative,
+  title={Generative Collaborative Networks for Single Image Super-Resolution},
+  author={Seddik, Mohamed El Amine and Tamaazousti, Mohamed and Lin, John},
+  journal={arXiv:1902.10467},
+  year={2019}
+} 
