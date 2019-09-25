@@ -8,7 +8,7 @@ author_profile: true
 2020
 ---
 > **MEA.Seddik**, C.Louart, M.Tamaazousti, R.Couillet, **``Random Matrix Theory Proves that Deep Learning Representations of GAN-
-data Behave as Gaussian Mixtures''**, *ICLR'2020 (submitted)*. [[paper](https://hal.inria.fr/hal-01677687/document)]
+data Behave as Gaussian Mixtures''**, *ICLR'2020 (submitted)*.
 
 2019
 ---
@@ -28,4 +28,4 @@ GAN-generated Images''**, *ICASSP'2019*. [[paper](https://hal.inria.fr/hal-01677
 
 **2018**
 ---
-> **MEA.Seddik**, V.Toldov, L.Clavier, N.Mitton, **From Outage Probability to ALOHA MAC Layer Performance Analysis in Distributed WSNs**, *WCNC'2018*. [[paper](https://hal.inria.fr/hal-01677687/document)]
+> **MEA.Seddik**, V.Toldov, L.Clavier, N.Mitton, **From Outage Probability to ALOHA MAC Layer Performance Analysis in Distributed WSNs**, *WCNC'2018*. [[paper](https://melaseddik.github.io/files/2018Cwcnc.pdf)]
