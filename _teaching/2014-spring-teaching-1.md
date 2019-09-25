@@ -8,4 +8,4 @@ date: 2018-01-01
 location: "Gif-sur-Yvette, France"
 ---
 
-Signal Processing tutorials for first grader engineering students. Temporal Representation, Frequency Representation, Fourrier Transform, Signal Filtering, Sampling, Audio and Image Signals Analysis etc.
+Signal Processing tutorials for first grader engineering students. Temporal Representation, Frequency Representation, Fourrier Transform, Signal Filtering, Sampling, Audio and Image Signals Analysis.
