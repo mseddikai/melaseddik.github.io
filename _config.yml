@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "MEA. Seddik"
   avatar           : "profile.png"
-  bio              : " "
+  bio              : "Ph.D. student in Random Matrix Theory and Machine Learning."
   location         : "Paris, France"
-  employer         :
+  employer         : "CEA List"
   pubmed           :
   googlescholar    : "https://scholar.google.fr/citations?user=85Hxd24AAAAJ&hl=fr"
-  email            :
+  email            : "melaseddik_at_gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
