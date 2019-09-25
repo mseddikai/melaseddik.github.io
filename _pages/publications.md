@@ -24,7 +24,7 @@ GAN-generated Images''**, *ICASSP'2019*. [[paper](https://hal.inria.fr/hal-01677
 
 > J.Lin, **MEA.Seddik**, M.Tamaazousti, Y.Tamaazousti, A.Bartoli, **``Deep Multi-class Adversarial Specularity Removal''**, *SCIA'2019*. [[paper](https://hal.inria.fr/hal-01677687/document)]
 
-> Y.Tamaazousti, H.Le Borgne, C.Hudelot, **MEA.Seddik**, M.Tamaazousti, **``Learning More Universal Representations for Transfer-Learning''**, *TPAMI'2019*. [[paper](https://hal.inria.fr/hal-01677687/document)]
+> Y.Tamaazousti, H.Le Borgne, C.Hudelot, **MEA.Seddik**, M.Tamaazousti, **``Learning More Universal Representations for Transfer-Learning''**, *TPAMI'2019*. [[paper](https://melaseddik.github.io/files/2019Jpami)]
 
 **2018**
 ---
