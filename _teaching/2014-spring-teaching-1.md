@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Centrale-Supelec, University Paris-saclay"
-date: 2018-01
+date: 2018-01-01
 location: "Gif-sur-Yvette, France"
 ---
 
