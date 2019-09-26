@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "MEA. Seddik"
+  name             : "MEA.Seddik"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student in Random Matrix Theory and Machine Learning."
+  bio              : "Ph.D. student on Random Matrix Theory and Machine Learning."
   location         : "Paris, France"
-  employer         : "CEA List"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.fr/citations?user=85Hxd24AAAAJ&hl=fr"
   email            : "melaseddik_at_gmail.com"
