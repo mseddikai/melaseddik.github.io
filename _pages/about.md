@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage! I'm a Ph.D. student working on Random Matrix Theory and Machine Learning at CEA (Alternative Energies and Atomic Energy Commission). I am also attached to the L2S (Laboratory of Signals and Systems) laboratory of Centrale-Supélec (part of the University of Paris-Saclay). I work under the supervision of [Mohamed Tamaazousti](http://mohamed-tamaazousti.com/) (CEA) and [Romain Couillet](https://romaincouillet.hebfree.org/) (Centrale-Supélec).
+Welcome to my personal webpage! I'm a Ph.D. student working on Random Matrix Theory and Machine Learning at [CEA](http://www-list.cea.fr/en/) (Alternative Energies and Atomic Energy Commission). I am also attached to the [L2S](http://www.l2s.centralesupelec.fr/) (Laboratory of Signals and Systems) laboratory of [Centrale-Supélec](https://www.centralesupelec.fr/) (part of the [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en)). I work under the supervision of [Mohamed Tamaazousti](http://mohamed-tamaazousti.com/) (CEA) and [Romain Couillet](https://romaincouillet.hebfree.org/) (Centrale-Supélec).
 
 My Thesis
 ======
