@@ -12,7 +12,7 @@ author_profile: true
 2019
 ---
 > MEA.Seddik, M.Tamaazousti, R.Couillet, **"Why do Random Matrices Explain Learning? An Argument of Universality
-Offered by GANs"**, *GRETSI'2019*. [[paper](https://melaseddik.github.io/files/2019Cgretsi.pdf)] [[slides](https://melaseddik.github.io/files/slides/2019Cgretsi.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Cgretsi.txt)]
+Offered by GANs"**, *GRETSI'2019*. [[paper](https://melaseddik.github.io/files/2019Cgretsi.pdf)] [[slides](https://melaseddik.github.io/files/slides/2019Cgretsi.pdf)] [[poster](https://melaseddik.github.io/files/posters/2019Cgretsi.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Cgretsi.txt)]
 
 > MEA.Seddik, M.Tamaazousti, R.Couillet, **"Kernel Random Matrices of Large Concentrated Data: The Example of
 GAN-generated Images"**, *ICASSP'2019*. [[paper](https://melaseddik.github.io/files/2019Cicassp.pdf)] [[poster](https://melaseddik.github.io/files/posters/2019Cicassp.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Cicassp.txt)]
