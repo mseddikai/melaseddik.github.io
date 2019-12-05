@@ -15,7 +15,7 @@ author_profile: true
 Offered by GANs"**, *GRETSI'2019*. [[paper](https://melaseddik.github.io/files/2019Cgretsi.pdf)] [[slides](https://melaseddik.github.io/files/slides/2019Cgretsi.pdf)] [[poster](https://melaseddik.github.io/files/posters/2019Cgretsi.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Cgretsi.txt)]
 
 > MEA.Seddik, M.Tamaazousti, R.Couillet, **"Kernel Random Matrices of Large Concentrated Data: The Example of
-GAN-generated Images"**, *ICASSP'2019*. [[paper](https://melaseddik.github.io/files/2019Cicassp.pdf)] [[poster](https://melaseddik.github.io/files/posters/2019Cicassp.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Cicassp.txt)]
+GAN-generated Images"**, *ICASSP'2019*. [[paper](https://melaseddik.github.io/files/2019Cicassp.pdf)] [[conference](https://ieeexplore.ieee.org/abstract/document/8683333)] [[poster](https://melaseddik.github.io/files/posters/2019Cicassp.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Cicassp.txt)]
 
 > MEA.Seddik, M.Tamaazousti, R.Couillet, **"A Kernel Random Matrix-Based Approach for Sparse PCA"**, *ICLR'2019*. [[paper](https://melaseddik.github.io/files/2019Ciclr.pdf)] [[poster](https://melaseddik.github.io/files/posters/2019Ciclr.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Ciclr.txt)]
 
