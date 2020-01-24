@@ -7,7 +7,7 @@ author_profile: true
 
 2020
 ---
-> MEA.Seddik, C.Louart, M.Tamaazousti, R.Couillet, **"Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures"**. [[preprint](https://openreview.net/pdf?id=rkgPnhNFPB)]
+> MEA.Seddik, C.Louart, M.Tamaazousti, R.Couillet, **"Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures"**. [[preprint](https://arxiv.org/pdf/2001.08370.pdf)]
 
 2019
 ---
