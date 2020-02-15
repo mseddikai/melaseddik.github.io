@@ -12,7 +12,7 @@ Welcome to my personal webpage! I'm a Ph.D. student working on Random Matrix The
 
 My Thesis
 ======
-**Title: Random Matrix Theory for AI: From Theory to Practice
+**Title: Random Matrix Theory for AI: From Theory to Practice**
 
 The bigdata era has driven the recent development of new algorithms and methods, often based on elementary principles allowing to handle large amounts of data. However, these large dimensional data impair the behavior of traditional methods that deserve to be revisited under the eye of more elaborate tools and methods. A better understanding of these methods in the bigdata regime indeed induces possibilities of improvements, thereby leading to the development of more efficient algorithms. The Random Matrix framework provides a powerful tool to understand and analyse the behavior of simple data models (such as the mixture of Gaussians model) in the large dimensional setting, which is naturally the case in the BigData paradigm. My Ph.D. thesis will aim at going beyond the simple models hypothesis, to develop new methods that are more appropriate to practical datasets (structured data, images, etc.). 
 
