@@ -11,7 +11,7 @@ author_profile: true
 
 > MEA.Seddik, H.Essafi, A.Benzine, M.Tamaazousti, **"Lightweight Neural Networks from PCA & LDA Based Distilled Dense Neural Networks"**, *ICIP'2020*.
 
-> MEA.Seddik, C.Louart, M.Tamaazousti, R.Couillet, **"Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures"**. [[preprint](https://arxiv.org/pdf/2001.08370.pdf)]
+> MEA.Seddik, C.Louart, M.Tamaazousti, R.Couillet, **"Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures"**, *ICML'2020*. [[preprint](https://arxiv.org/pdf/2001.08370.pdf)]
 
 2019
 ---
