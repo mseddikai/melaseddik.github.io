@@ -25,7 +25,7 @@ GAN-generated Images"**, *ICASSP'2019*. [[paper](https://melaseddik.github.io/fi
 
 > MEA.Seddik, M.Tamaazousti, R.Couillet, **"A Kernel Random Matrix-Based Approach for Sparse PCA"**, *ICLR'2019*. [[paper](https://melaseddik.github.io/files/2019Ciclr.pdf)] [[poster](https://melaseddik.github.io/files/posters/2019Ciclr.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Ciclr.txt)]
 
-> MEA.Seddik, M.Tamaazousti, J.Lin, **"Generative Collaborative Networks for Single Image SuperResolution"**, *Neurocomputing'2019*. [[paper](https://melaseddik.github.io/files/2019Jneurocomp.pdf)] [[journal](https://www.sciencedirect.com/science/article/pii/S0925231219314584?via%3Dihub)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Jneurocomp.txt)]
+> MEA.Seddik, M.Tamaazousti, J.Lin, **"Generative Collaborative Networks for Single Image SuperResolution"**, *Neurocomputing'2019*. [[paper](https://melaseddik.github.io/files/gcn_neurocomputing.pdf)] [[journal](https://www.sciencedirect.com/science/article/pii/S0925231219314584?via%3Dihub)] [[arxiv](https://arxiv.org/abs/1902.10467)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Jneurocomp.txt)]
 
 > J.Lin, MEA.Seddik, M.Tamaazousti, Y.Tamaazousti, A.Bartoli, **"Deep Multi-class Adversarial Specularity Removal"**, *SCIA'2019*. [[paper](https://melaseddik.github.io/files/2019Cscia.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Cscia.txt)]
 
