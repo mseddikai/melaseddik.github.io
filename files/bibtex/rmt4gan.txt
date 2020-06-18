@@ -1,0 +1,6 @@
+@inproceedings{seddik2020random,
+title={Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures},
+author={Mohamed El Amine Seddik and Cosme Louart and Mohamed Tamaazousti and Romain Couillet},
+booktitle={International Conference on Machine Learning},
+year={2020},
+}
