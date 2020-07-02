@@ -9,7 +9,7 @@ author_profile: true
 ---
 > MEA.Seddik, C.Louart, R.Couillet, M.Tamaazousti, **"The Unexpected Deterministic and Universal Behavior of Large Softmax Classifiers"**. [[preprint](https://melaseddik.github.io/files/rmt4softmax.pdf)]
 
-> MEA.Seddik, R.Couillet, M.Tamaazousti, **"A Random Matrix Analysis of Learning with alpha-Dropout"**. [[preprint](https://melaseddik.github.io/files/rmt4dropout.pdf)]
+> MEA.Seddik, R.Couillet, M.Tamaazousti, **"A Random Matrix Analysis of Learning with alpha-Dropout"**, *ICML'2020 Workshop Artemiss* [[paper](https://melaseddik.github.io/files/rmt4dropout.pdf)]
 
 > MEA.Seddik, H.Essafi, A.Benzine, M.Tamaazousti, **"Lightweight Neural Networks from PCA & LDA Based Distilled Dense Neural Networks"**, *ICIP'2020*. [[paper](https://melaseddik.github.io/files/teacher_student_icip_2020.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/icip_2020.txt)]
 
