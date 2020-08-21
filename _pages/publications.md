@@ -11,7 +11,7 @@ author_profile: true
 
 > MEA.Seddik, R.Couillet, M.Tamaazousti, **"A Random Matrix Analysis of Learning with alpha-Dropout"**, *ICML'2020 Artemiss Workshop*. [[paper](https://melaseddik.github.io/files/rmt4dropout.pdf)] [[openreview](https://openreview.net/forum?id=uPKnBVF28Y)] [[slides](https://melaseddik.github.io/files/slides/rmt4dropout.pdf)]
 
-> MEA.Seddik, H.Essafi, A.Benzine, M.Tamaazousti, **"Lightweight Neural Networks from PCA & LDA Based Distilled Dense Neural Networks"**, *ICIP'2020*. [[paper](https://melaseddik.github.io/files/teacher_student_icip_2020.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/icip_2020.txt)]
+> MEA.Seddik, H.Essafi, A.Benzine, M.Tamaazousti, **"Lightweight Neural Networks from PCA & LDA Based Distilled Dense Neural Networks"**, *ICIP'2020*. [[paper](https://melaseddik.github.io/files/teacher_student_icip_2020.pdf)] [[slides](https://melaseddik.github.io/files/slides/icip_2020_slides_compact.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/icip_2020.txt)]
 
 > MEA.Seddik, C.Louart, M.Tamaazousti, R.Couillet, **"Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures"**, *ICML'2020*. [[paper](https://melaseddik.github.io/files/rmt4gan.pdf)] [[arxiv](https://arxiv.org/abs/2001.08370)] [[slides](https://melaseddik.github.io/files/slides/slides_rmt4gan_icml_2020.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/rmt4gan.txt)]
 
