@@ -1,0 +1,5 @@
+@article{seddik2020random,
+  title={A Random Matrix Analysis of Learning with $\alpha$-Dropout},
+  author={Seddik, Mohamed El Amine and Couillet, Romain and Tamaazousti, Mohamed},
+  year={2020}
+}
