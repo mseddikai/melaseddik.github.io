@@ -1,0 +1,4 @@
+@article{seddikunexpected,
+  title={The Unexpected Deterministic and Universal Behavior of Large Softmax Classifiers},
+  author={Seddik, Mohamed El Amine and Louart, Cosme and Couillet, Romain and Tamaazousti, Mohamed}
+}
