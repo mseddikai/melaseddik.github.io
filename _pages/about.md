@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage! I'm a Postdoctoral researcher at [Ecole Polytechnique](https://www.polytechnique.edu/en) hosted by Prof. [Michalis Vazirgiannis](http://www.lix.polytechnique.fr/Labo/Michalis.Vazirgiannis/). I received my Ph.D. in mathematics and computer science from [Centrale-Supélec](https://www.centralesupelec.fr/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en) in 2020, where I was also attached to [CEA](http://www.cea.fr/) (French Atomic Agency) and where I worked on Random Matrix Theory and Machine Learning under the supervision of [Romain Couillet](https://romaincouillet.hebfree.org/) and [Mohamed Tamaazousti](http://mohamed-tamaazousti.com/).
+Welcome to my personal webpage! I'm a Postdoctoral researcher at [Ecole Polytechnique](https://www.polytechnique.edu/en) hosted by Prof. [Michalis Vazirgiannis](http://www.lix.polytechnique.fr/Labo/Michalis.Vazirgiannis/). I received my Ph.D. in mathematics and computer science from [Centrale-Supélec](https://www.centralesupelec.fr/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en) in 2020, where I was also attached to [CEA](http://www.cea.fr/) (French Atomic Agency) and where I worked on Random Matrix Theory and Machine Learning under the supervision of [Romain Couillet](https://romaincouillet.hebfree.org/) and [Mohamed Tamaazousti](https://scholar.google.fr/citations?user=GECYQPMAAAAJ&hl=fr).
 
 **Main Research Interests**
 -
