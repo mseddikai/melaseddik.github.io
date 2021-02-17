@@ -7,6 +7,10 @@ author_profile: true
 
 2021
 ---
+> MEA.Seddik, C.Wu, J.Lutzeyer, M.Vazirgiannis, **"Node Feature Kernels Increase Graph Convolutional Network Robustness"**.
+
+> A.Benzine, MEA.Seddik, **"Deep Miner: A Deep and Multi-branch Network which Mines Rich and Diverse Features for Person Re-identification"**.
+
 > MEA.Seddik, C.Louart, R.Couillet, M.Tamaazousti, **"The Unexpected Deterministic and Universal Behavior of Large Softmax Classifiers"**, *AISTATS'2021*. [[paper](https://melaseddik.github.io/files/rmt4softmax.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/softmax_2020.txt)]
 
 2020
