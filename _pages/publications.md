@@ -5,10 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+2021
+---
+> MEA.Seddik, C.Louart, R.Couillet, M.Tamaazousti, **"The Unexpected Deterministic and Universal Behavior of Large Softmax Classifiers"**. [[paper](https://melaseddik.github.io/files/rmt4softmax.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/softmax_2020.txt)]
+
 2020
 ---
-> MEA.Seddik, C.Louart, R.Couillet, M.Tamaazousti, **"The Unexpected Deterministic and Universal Behavior of Large Softmax Classifiers"**. [[preprint](https://melaseddik.github.io/files/rmt4softmax.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/softmax_2020.txt)]
-
 > MEA.Seddik, R.Couillet, M.Tamaazousti, **"A Random Matrix Analysis of Learning with alpha-Dropout"**, *ICML'2020 Artemiss Workshop*. [[paper](https://melaseddik.github.io/files/rmt4dropout.pdf)] [[openreview](https://openreview.net/forum?id=uPKnBVF28Y)] [[slides](https://melaseddik.github.io/files/slides/rmt4dropout.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/artemiss_2020.txt)]
 
 > MEA.Seddik, H.Essafi, A.Benzine, M.Tamaazousti, **"Lightweight Neural Networks from PCA & LDA Based Distilled Dense Neural Networks"**, *ICIP'2020*. [[paper](https://melaseddik.github.io/files/teacher_student_icip_2020.pdf)] [[slides](https://melaseddik.github.io/files/slides/icip_2020_slides_compact.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/icip_2020.txt)]
