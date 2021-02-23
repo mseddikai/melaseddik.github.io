@@ -1,0 +1,6 @@
+@article{benzine2021deep,
+  title={Deep Miner: A Deep and Multi-branch Network which Mines Rich and Diverse Features for Person Re-identification},
+  author={Benzine, Abdallah and Seddik, Mohamed El Amine and Desmarais, Julien},
+  journal={arXiv preprint arXiv:2102.09321},
+  year={2021}
+}
