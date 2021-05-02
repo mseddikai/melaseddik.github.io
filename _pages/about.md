@@ -24,9 +24,9 @@ My Thesis
 - [Prof. Julie Delon](http://scholar.google.fr/citations?user=X6MBHUUAAAAJ&hl=en), *Université Paris Descartes*
 - [Dr. Jamal Najim](https://scholar.google.fr/citations?hl=en&user=1xCmHRIAAAAJ), *Université Marne la Vallée*
 - [Prof. Merouane Debbah](https://scholar.google.fr/citations?hl=en&user=HU5I0X4AAAAJ), *Huawei Labs & CentraleSupélec*
-- [Prof. Florent Krzakala](https://scholar.google.fr/citations?hl=en&user=3jDeUlMAAAAJ), *ENS Ulm*
+- [Prof. Florent Krzakala](https://scholar.google.fr/citations?hl=en&user=3jDeUlMAAAAJ), *EPFL*
 - [Dr. Alexandre Gramfort](https://scholar.google.fr/citations?hl=en&user=fhxshS0AAAAJ), *Inria Paris*
-- [Dr. Florent Chartelain](http://florent.chatelain.free.fr/), *Université Grenoble-Alpes*
+- [Dr. Florent Chatelain](http://florent.chatelain.free.fr/), *Université Grenoble-Alpes*
 - [Prof. Romain Couillet](https://scholar.google.fr/citations?hl=en&user=LcZ1YVgAAAAJ), *CentraleSupélec*
 - [Dr. Mohamed Tamaazousti](https://scholar.google.fr/citations?hl=en&user=GECYQPMAAAAJ), *CEA List*
 
