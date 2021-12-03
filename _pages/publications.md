@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+2022
+---
+> MEA.Seddik, M.Tamaazousti, **"Neural Networks Classify through the Class-wise Means of their Representations"**, *AAAI'2022*. [[preprint](https://melaseddik.github.io/files/AAAI2022.pdf)]
+
 2021
 ---
 > MEA.Seddik, C.Wu, J.Lutzeyer, M.Vazirgiannis, **"Node Feature Kernels Increase Graph Convolutional Network Robustness"**. [[preprint](https://arxiv.org/pdf/2109.01785.pdf)]
