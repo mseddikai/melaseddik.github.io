@@ -12,7 +12,7 @@ Welcome to my personal webpage! I'm a machine learning researcher at the Mathema
 
 **Main Research Interests**
 -
-*Random Matrix Theory, Machine Learning, Deep Learning, Graph Neural Networks.*
+*Random Matrix/Tensor Theory, Machine Learning, Deep Learning, Graph Neural Networks.*
 
 My Thesis
 -
