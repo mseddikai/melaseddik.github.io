@@ -9,6 +9,7 @@ author_profile: true
 2022
 ---
 > MEA.Seddik, M.Guillaud, R.Couillet, **"When Random Tensors meet Random Matrices"**. [[arxiv](https://arxiv.org/abs/2112.12348)]
+
 > MEA.Seddik, M.Tamaazousti, **"Neural Networks Classify through the Class-wise Means of their Representations"**, *AAAI'2022*. [[preprint](https://melaseddik.github.io/files/AAAI2022.pdf)]
 
 2021
