@@ -14,6 +14,10 @@ Welcome to my personal webpage! I'm a machine learning researcher at the Mathema
 -
 *Random Matrix/Tensor Theory, Machine Learning, Deep Learning, Graph Neural Networks.*
 
+Latest advances
+-
+Analysis of spiked random tensors, check out the paper [[here](https://arxiv.org/abs/2112.12348)].
+
 My Thesis
 -
 **Title:** *Random Matrix Theory for AI: From Theory to Practice. [[slides](https://melaseddik.github.io/files/slides/thesis_slides.pdf)] [[manuscript](https://melaseddik.github.io/files/thesis_seddik.pdf)]*
