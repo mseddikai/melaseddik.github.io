@@ -16,7 +16,7 @@ Welcome to my personal webpage! I'm a machine learning researcher at the Mathema
 
 Latest advances
 -
-Analysis of spiked random tensors, check out the paper [here](https://arxiv.org/abs/2112.12348).
+> Analysis of spiked random tensors, check out the paper [here](https://arxiv.org/abs/2112.12348).
 
 My Thesis
 -
