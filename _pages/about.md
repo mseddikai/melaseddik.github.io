@@ -14,7 +14,7 @@ Welcome to my personal webpage! I'm a machine learning researcher at the Mathema
 -
 *Random Matrix/Tensor Theory, Machine Learning, Deep Learning, Graph Neural Networks.*
 
-Latest advances
+News & latest advances
 -
 > 12/2021 - Analysis of spiked random tensors, check out the paper [here](https://arxiv.org/abs/2112.12348).
 
