@@ -44,6 +44,8 @@ GAN-generated Images"**, *ICASSP'2019*. [[paper](https://melaseddik.github.io/fi
 
 > J.Lin, MEA.Seddik, M.Tamaazousti, Y.Tamaazousti, A.Bartoli, **"Suppression de spécularités par réseau adverse multi-classes"**, *ORASIS'2019*. [[paper](https://melaseddik.github.io/files/2019Corasis.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Corasis.txt)]
 
+**2017**
+---
 > Y.Tamaazousti, H.Le Borgne, C.Hudelot, MEA.Seddik, M.Tamaazousti, **"Learning More Universal Representations for Transfer-Learning"**, *TPAMI'2019*. [[paper](https://melaseddik.github.io/files/2019Jpami.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Jpami.txt)] [[code](https://github.com/youssefTamaazousti/MuldipNet-tensorflow)]
 
 > MEA.Seddik, V.Toldov, L.Clavier, N.Mitton, **"From Outage Probability to ALOHA MAC Layer Performance Analysis in Distributed WSNs"**, *WCNC'2018*. [[paper](https://melaseddik.github.io/files/2018Cwcnc.pdf)] [[slides](https://melaseddik.github.io/files/slides/2018Cwcnc.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2018Cwcnc.txt)]
