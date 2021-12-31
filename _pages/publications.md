@@ -10,8 +10,6 @@ author_profile: true
 ---
 > MEA.Seddik, M.Guillaud, R.Couillet, **"When Random Tensors meet Random Matrices"**. [[arxiv](https://arxiv.org/abs/2112.12348)]
 
-> MEA.Seddik, M.Tamaazousti, **"Neural Networks Classify through the Class-wise Means of their Representations"**, *AAAI'2022*. [[preprint](https://melaseddik.github.io/files/AAAI2022.pdf)]
-
 > MEA.Seddik, C.Wu, J.Lutzeyer, M.Vazirgiannis, **"Node Feature Kernels Increase Graph Convolutional Network Robustness"**. [[preprint](https://arxiv.org/pdf/2109.01785.pdf)]
 
 > A.Benzine, MEA.Seddik, J.Desmarais, **"Deep Miner: A Deep and Multi-branch Network which Mines Rich and Diverse Features for Person Re-identification"**. [[preprint](https://melaseddik.github.io/files/cvpr_2021.pdf)] [[arxiv](https://arxiv.org/abs/2102.09321)] [[bibtex](https://melaseddik.github.io/files/bibtex/cvpr_2021.txt)]
@@ -20,6 +18,8 @@ author_profile: true
 ---
 
 > MEA.Seddik, C.Louart, R.Couillet, M.Tamaazousti, **"The Unexpected Deterministic and Universal Behavior of Large Softmax Classifiers"**, *AISTATS'2021*. [[paper](https://melaseddik.github.io/files/rmt4softmax.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/softmax_2020.txt)]
+
+> MEA.Seddik, M.Tamaazousti, **"Neural Networks Classify through the Class-wise Means of their Representations"**, *AAAI'2022*. [[preprint](https://melaseddik.github.io/files/AAAI2022.pdf)]
 
 > MEA.Seddik, R.Couillet, M.Tamaazousti, **"A Random Matrix Analysis of Learning with alpha-Dropout"**, *ICML'2020 Artemiss Workshop*. [[paper](https://melaseddik.github.io/files/rmt4dropout.pdf)] [[openreview](https://openreview.net/forum?id=uPKnBVF28Y)] [[slides](https://melaseddik.github.io/files/slides/rmt4dropout.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/artemiss_2020.txt)]
 
