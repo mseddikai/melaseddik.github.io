@@ -10,7 +10,7 @@ author_profile: true
 ---
 > MEA.Seddik, M.Guillaud, R.Couillet, **"When Random Tensors meet Random Matrices"**. [[arxiv](https://arxiv.org/abs/2112.12348)]
 
-> MEA.Seddik, C.Wu, J.Lutzeyer, M.Vazirgiannis, **"Node Feature Kernels Increase Graph Convolutional Network Robustness"**. [[preprint](https://arxiv.org/pdf/2109.01785.pdf)]
+> MEA.Seddik, C.Wu, J.Lutzeyer, M.Vazirgiannis, **"Node Feature Kernels Increase Graph Convolutional Network Robustness"**, *AISTATS'2022*. [[preprint](https://arxiv.org/pdf/2109.01785.pdf)]
 
 > A.Benzine, MEA.Seddik, J.Desmarais, **"Deep Miner: A Deep and Multi-branch Network which Mines Rich and Diverse Features for Person Re-identification"**. [[preprint](https://melaseddik.github.io/files/cvpr_2021.pdf)] [[arxiv](https://arxiv.org/abs/2102.09321)] [[bibtex](https://melaseddik.github.io/files/bibtex/cvpr_2021.txt)]
 
