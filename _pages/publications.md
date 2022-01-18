@@ -8,7 +8,7 @@ author_profile: true
 
 2021
 ---
-> MEA.Seddik, M.Guillaud, R.Couillet, **"When Random Tensors meet Random Matrices"**. [[arxiv](https://arxiv.org/abs/2112.12348)]
+> MEA.Seddik, M.Guillaud, R.Couillet, **"When Random Tensors meet Random Matrices"**, *submitted to AAP*. [[arxiv](https://arxiv.org/abs/2112.12348)]
 
 > MEA.Seddik, C.Wu, J.Lutzeyer, M.Vazirgiannis, **"Node Feature Kernels Increase Graph Convolutional Network Robustness"**, *AISTATS'2022*. [[preprint](https://arxiv.org/pdf/2109.01785.pdf)]
 
