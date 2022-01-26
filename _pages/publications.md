@@ -18,7 +18,7 @@ author_profile: true
 ---
 > MEA.Seddik, C.Louart, R.Couillet, M.Tamaazousti, **"The Unexpected Deterministic and Universal Behavior of Large Softmax Classifiers"**, *AISTATS'2021*. [[paper](https://melaseddik.github.io/files/rmt4softmax.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/softmax_2020.txt)]
 
-> MEA.Seddik, M.Tamaazousti, **"Neural Networks Classify through the Class-wise Means of their Representations"**, *AAAI'2022*. [[preprint](https://melaseddik.github.io/files/AAAI2022.pdf)]
+> MEA.Seddik, M.Tamaazousti, **"Neural Networks Classify through the Class-wise Means of their Representations"**, *AAAI'2022*. [[paper](https://melaseddik.github.io/files/AAAI2022.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_aaai2022.pdf)]
 
 > MEA.Seddik, R.Couillet, M.Tamaazousti, **"A Random Matrix Analysis of Learning with alpha-Dropout"**, *ICML'2020 Artemiss Workshop*. [[paper](https://melaseddik.github.io/files/rmt4dropout.pdf)] [[openreview](https://openreview.net/forum?id=uPKnBVF28Y)] [[slides](https://melaseddik.github.io/files/slides/rmt4dropout.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/artemiss_2020.txt)]
 
