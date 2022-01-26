@@ -16,7 +16,7 @@ author_profile: true
 
 2020
 ---
-> MEA.Seddik, C.Louart, R.Couillet, M.Tamaazousti, **"The Unexpected Deterministic and Universal Behavior of Large Softmax Classifiers"**, *AISTATS'2021*. [[paper](https://melaseddik.github.io/files/rmt4softmax.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/softmax_2020.txt)]
+> MEA.Seddik, C.Louart, R.Couillet, M.Tamaazousti, **"The Unexpected Deterministic and Universal Behavior of Large Softmax Classifiers"**, *AISTATS'2021*. [[paper](https://melaseddik.github.io/files/rmt4softmax.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_aistats2021.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/softmax_2020.txt)]
 
 > MEA.Seddik, M.Tamaazousti, **"Neural Networks Classify through the Class-wise Means of their Representations"**, *AAAI'2022*. [[paper](https://melaseddik.github.io/files/AAAI2022.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_aaai2022.pdf)]
 
