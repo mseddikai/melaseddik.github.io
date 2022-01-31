@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+2022
+---
+> MEA.Seddik, A.Decurninge, M.Tiomoko, M.Guillaud, R.Couillet, **"On Learning from Tensor-structured Data: A Random Tensor Theory Approach"**. [[preprint](https://melaseddik.github.io/files/r2t4ml.pdf)]
 
 2021
 ---
