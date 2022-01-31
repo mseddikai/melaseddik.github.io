@@ -9,6 +9,8 @@ author_profile: true
 ---
 > MEA.Seddik, A.Decurninge, M.Tiomoko, M.Guillaud, R.Couillet, **"On Learning from Tensor-structured Data: A Random Tensor Theory Approach"**. [[preprint](https://melaseddik.github.io/files/r2t4ml.pdf)]
 
+> MEA.Tiomoko, E.Schnoor, MEA.Seddik, I.Colin, A.Virmaux, **"Deciphering Lasso-based Classification Through a Large Dimensional Analysis of the Iterative Soft-Thresholding Algorithm"**. [[preprint](https://melaseddik.github.io/files/rmt4lasso.pdf)]
+
 2021
 ---
 > MEA.Seddik, M.Guillaud, R.Couillet, **"When Random Tensors meet Random Matrices"**, *submitted to AAP*. [[arxiv](https://arxiv.org/abs/2112.12348)]
