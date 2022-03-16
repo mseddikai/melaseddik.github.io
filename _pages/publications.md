@@ -7,7 +7,7 @@ author_profile: true
 
 2022
 ---
-> MEA.Seddik, M.Guillaud, R.Couillet, **"Quand les tenseurs aléatoires rencontrent les matrices aléatoires"**. [[preprint](https://melaseddik.github.io/files/Gretsi_2022.pdf)]
+> MEA.Seddik, M.Guillaud, R.Couillet, **"Quand les tenseurs aléatoires rencontrent les matrices aléatoires"**. [[preprint](https://melaseddik.github.io/files/Gretsi_2022.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_cirm2022.pdf)]
 
 > MEA.Seddik, A.Decurninge, M.Tiomoko, M.Guillaud, R.Couillet, **"On Learning from Tensor-structured Data: A Random Tensor Theory Approach"**. 
 
@@ -15,7 +15,7 @@ author_profile: true
 
 2021
 ---
-> MEA.Seddik, M.Guillaud, R.Couillet, **"When Random Tensors meet Random Matrices"**, *submitted to AAP*. [[arxiv](https://arxiv.org/abs/2112.12348)]
+> MEA.Seddik, M.Guillaud, R.Couillet, **"When Random Tensors meet Random Matrices"**, *submitted to AAP*. [[arxiv](https://arxiv.org/abs/2112.12348)] [[poster](https://melaseddik.github.io/files/posters/poster_cirm2022.pdf)]
 
 > MEA.Seddik, C.Wu, J.Lutzeyer, M.Vazirgiannis, **"Node Feature Kernels Increase Graph Convolutional Network Robustness"**, *AISTATS'2022*. [[preprint](https://arxiv.org/pdf/2109.01785.pdf)]
 
