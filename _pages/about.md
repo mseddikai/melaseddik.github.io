@@ -18,6 +18,8 @@ News & latest advances
 -
 > 12/2021 - Analysis of spiked random tensors, check out the paper [here](https://arxiv.org/abs/2112.12348).
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6940689339597135872" height="1268" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+
 My Thesis
 -
 **Title:** *Random Matrix Theory for AI: From Theory to Practice. [[slides](https://melaseddik.github.io/files/slides/thesis_slides.pdf)] [[manuscript](https://melaseddik.github.io/files/thesis_seddik.pdf)]*
