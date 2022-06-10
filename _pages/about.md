@@ -16,7 +16,7 @@ Welcome to my personal webpage! I'm a machine learning researcher at the Mathema
 
 Posts
 -
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6940689339597135872" height="200" width="760" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6940689339597135872" height="200" style="width: 50px;float:left;" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 
 My Thesis
 -
