@@ -11,7 +11,7 @@ author_profile: true
 
 > MEA.Seddik, A.Decurninge, M.Tiomoko, M.Guillaud, R.Couillet, **"On Learning from Low Rank Tensor Data"**. 
 
-> M.Tiomoko, E.Schnoor, MEA.Seddik, I.Colin, A.Virmaux, **"Deciphering Lasso-based Classification Through a Large Dimensional Analysis of the Iterative Soft-Thresholding Algorithm"**. [[paper](https://melaseddik.github.io/files/icml22_lasso.pdf)]
+> M.Tiomoko, E.Schnoor, MEA.Seddik, I.Colin, A.Virmaux, **"Deciphering Lasso-based Classification Through a Large Dimensional Analysis of the Iterative Soft-Thresholding Algorithm"**. [[paper](https://melaseddik.github.io/files/icml22_lasso.pdf)] [[poster](https://melaseddik.github.io/files/posters/icml22_lasso_poster.pdf)]
 
 2021
 ---
