@@ -7,11 +7,11 @@ author_profile: true
 
 2022
 ---
-> MEA.Seddik, M.Guillaud, R.Couillet, **"Quand les tenseurs aléatoires rencontrent les matrices aléatoires"**. [[paper](https://melaseddik.github.io/files/Gretsi_2022.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_cirm2022.pdf)]
+> MEA.Seddik, M.Guillaud, R.Couillet, **"Quand les tenseurs aléatoires rencontrent les matrices aléatoires"**, *Gretsi'2022*. [[paper](https://melaseddik.github.io/files/Gretsi_2022.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_cirm2022.pdf)]
 
 > MEA.Seddik, A.Decurninge, M.Tiomoko, M.Guillaud, R.Couillet, **"On Learning from Low Rank Tensor Data"**. 
 
-> M.Tiomoko, E.Schnoor, MEA.Seddik, I.Colin, A.Virmaux, **"Deciphering Lasso-based Classification Through a Large Dimensional Analysis of the Iterative Soft-Thresholding Algorithm"**. [[paper](https://melaseddik.github.io/files/icml22_lasso.pdf)] [[poster](https://melaseddik.github.io/files/posters/icml22_lasso_poster.pdf)]
+> M.Tiomoko, E.Schnoor, MEA.Seddik, I.Colin, A.Virmaux, **"Deciphering Lasso-based Classification Through a Large Dimensional Analysis of the Iterative Soft-Thresholding Algorithm"**, *ICML'2022*. [[paper](https://melaseddik.github.io/files/icml22_lasso.pdf)] [[poster](https://melaseddik.github.io/files/posters/icml22_lasso_poster.pdf)]
 
 2021
 ---
@@ -36,7 +36,7 @@ author_profile: true
 > MEA.Seddik, C.Louart, M.Tamaazousti, R.Couillet, **"Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures"**, *ICML'2020*. [[paper](https://melaseddik.github.io/files/rmt4gan.pdf)] [[arxiv](https://arxiv.org/abs/2001.08370)] [[slides](https://melaseddik.github.io/files/slides/slides_rmt4gan_icml_2020.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/rmt4gan.txt)]
 
 > MEA.Seddik, M.Tamaazousti, R.Couillet, **"Why do Random Matrices Explain Learning? An Argument of Universality
-Offered by GANs"**, *GRETSI'2019*. [[paper](https://melaseddik.github.io/files/2019Cgretsi.pdf)] [[slides](https://melaseddik.github.io/files/slides/2019Cgretsi.pdf)] [[poster](https://melaseddik.github.io/files/posters/2019Cgretsi.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Cgretsi.txt)]
+Offered by GANs"**, *Gretsi'2019*. [[paper](https://melaseddik.github.io/files/2019Cgretsi.pdf)] [[slides](https://melaseddik.github.io/files/slides/2019Cgretsi.pdf)] [[poster](https://melaseddik.github.io/files/posters/2019Cgretsi.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Cgretsi.txt)]
 
 > MEA.Seddik, M.Tamaazousti, R.Couillet, **"Kernel Random Matrices of Large Concentrated Data: The Example of
 GAN-generated Images"**, *ICASSP'2019*. [[paper](https://melaseddik.github.io/files/2019Cicassp.pdf)] [[conference](https://ieeexplore.ieee.org/abstract/document/8683333)] [[poster](https://melaseddik.github.io/files/posters/2019Cicassp.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/2019Cicassp.txt)]
