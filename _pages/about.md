@@ -20,8 +20,6 @@ Recent posts
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6940689339597135872" hspace="50" height="200" style="width: 49%;" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6729771810973351936" hspace="50" height="200" style="width: 49%;" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
-
 My Thesis
 -
 **Title:** *Random Matrix Theory for AI: From Theory to Practice. [[slides](https://melaseddik.github.io/files/slides/thesis_slides.pdf)] [[manuscript](https://melaseddik.github.io/files/thesis_seddik.pdf)]*
