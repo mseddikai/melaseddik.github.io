@@ -8,17 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage! I'm a machine learning researcher at the Mathematical and Algorithmic Science Lab of Huawei Paris Research Center. Previously, I was a Postdoctoral researcher at [Ecole Polytechnique](https://www.polytechnique.edu/en) hosted by Prof. [Michalis Vazirgiannis](http://www.lix.polytechnique.fr/Labo/Michalis.Vazirgiannis/). I received my Ph.D. in mathematics and computer science from [Centrale-Supélec](https://www.centralesupelec.fr/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en) in 2020, where I was also attached to [CEA](http://www.cea.fr/) (French Atomic Agency) and where I worked on Random Matrix Theory and Machine Learning under the supervision of Prof. [Romain Couillet](https://romaincouillet.hebfree.org/).
+Welcome to my personal webpage! I'm a machine learning researcher at the Mathematical and Algorithmic Science Lab of Huawei Paris Research Center. Previously, I was a Postdoctoral researcher at [Ecole Polytechnique](https://www.polytechnique.edu/en) hosted by Prof. [Michalis Vazirgiannis](http://www.lix.polytechnique.fr/Labo/Michalis.Vazirgiannis/). I received my Ph.D. in signal and image processing from [Centrale-Supélec](https://www.centralesupelec.fr/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en) in 2020, where I was also attached to [CEA](http://www.cea.fr/) (French Atomic Agency). During my Ph.D. I worked on Random Matrix Theory and Machine Learning under the supervision of Prof. [Romain Couillet](https://romaincouillet.hebfree.org/).
 
 **Main Research Interests**
 -
 *Random Matrix/Tensor Theory, Machine Learning, Deep Learning, Graph Neural Networks.*
 
-Recent posts
--
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6949796821376356352" hspace="50" height="200" style="width: 49%;" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6940689339597135872" hspace="50" height="200" style="width: 49%;" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 
 My Thesis
 -
