@@ -7,7 +7,7 @@ author_profile: true
 
 2022
 ---
-> MEA.Seddik, M.Guillaud, A.Decurninge, **"On the Accuracy of Hotelling-Type Tensor Deflation: A Random Tensor Analysis"**. [[preprint](https://melaseddik.github.io/files/icassp2023.pdf)]
+> MEA.Seddik, M.Guillaud, A.Decurninge, **"On the Accuracy of Hotelling-Type Tensor Deflation: A Random Tensor Analysis"**. [[preprint](https://melaseddik.github.io/files/icassp2023.pdf)] [[arxiv](https://arxiv.org/abs/2211.09004)]
 
 > MEA.Seddik, M.Guillaud, R.Couillet, **"Quand les tenseurs aléatoires rencontrent les matrices aléatoires"**, *Gretsi'2022*. [[paper](https://melaseddik.github.io/files/Gretsi_2022.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_cirm2022.pdf)] [[slides_fr](https://melaseddik.github.io/files/slides/slides_gretsi_2022_fr.pdf)] [[slides_en](https://melaseddik.github.io/files/slides/slides_gretsi_2022_en.pdf)]
 
