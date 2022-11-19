@@ -11,7 +11,7 @@ author_profile: true
 
 > MEA.Seddik, M.Guillaud, R.Couillet, **"Quand les tenseurs aléatoires rencontrent les matrices aléatoires"**, *Gretsi'2022*. [[paper](https://melaseddik.github.io/files/Gretsi_2022.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_cirm2022.pdf)] [[slides_fr](https://melaseddik.github.io/files/slides/slides_gretsi_2022_fr.pdf)] [[slides_en](https://melaseddik.github.io/files/slides/slides_gretsi_2022_en.pdf)]
 
-> MEA.Seddik, A.Decurninge, M.Tiomoko, M.Guillaud, **"On Learning from Low Rank Tensor Data: A Random Tensor Theory Perspective"**. 
+> MEA.Seddik, A.Decurninge, M.Tiomoko, M.Guillaud, **"On Learning from Low Rank Tensor Data: A Random Tensor Theory Perspective"**. [[preprint](https://melaseddik.github.io/files/aistats2023.pdf)]
 
 > M.Tiomoko, E.Schnoor, MEA.Seddik, I.Colin, A.Virmaux, **"Deciphering Lasso-based Classification Through a Large Dimensional Analysis of the Iterative Soft-Thresholding Algorithm"**, *ICML'2022*. [[paper](https://melaseddik.github.io/files/icml22_lasso.pdf)] [[poster](https://melaseddik.github.io/files/posters/icml22_lasso_poster.pdf)]
 
