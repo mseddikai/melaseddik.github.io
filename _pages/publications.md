@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+2023
+---
+> MEA.Seddik, M.Mahfoud, M.Debbah, **"Optimizing Orthogonalized Tensor Deflation via Random Tensor Theory"**. [[arxiv](https://arxiv.org/abs/2302.05798)]
+
 2022
 ---
 > MEA.Seddik, M.Guillaud, A.Decurninge, **"On the Accuracy of Hotelling-Type Tensor Deflation: A Random Tensor Analysis"**. [[preprint](https://melaseddik.github.io/files/icassp2023.pdf)] [[arxiv](https://arxiv.org/abs/2211.09004)]
