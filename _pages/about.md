@@ -14,6 +14,9 @@ Welcome to my academic webpage! I'm a senior researcher in AI at the [Technology
 -
 *Random Matrix/Tensor Theory, Machine Learning, Deep Learning, Graph Neural Networks.*
 
+News
+-
+- [When Random Tensors meet Random Matrices](https://arxiv.org/abs/2112.12348) accepted at the [Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability/).
 
 My Thesis
 -
