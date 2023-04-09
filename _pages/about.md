@@ -17,6 +17,7 @@ Welcome to my academic webpage! I'm a senior researcher in AI at the [Technology
 News
 -
 - 28/03/23: [When Random Tensors meet Random Matrices](https://arxiv.org/abs/2112.12348) accepted at the [Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability/).
+- 15/02/23: Talk about [random tensors](https://melaseddik.github.io/files/slides/slides_random_tensors.pdf) at the [Abu Dhabi Stochastics Seminar](https://wp.nyu.edu/adps/).
 
 My Thesis
 -
