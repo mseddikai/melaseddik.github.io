@@ -7,6 +7,8 @@ author_profile: true
 
 2023
 ---
+> MEA.Seddik, JHM.Goulart, M.Guillaud, **"Hotelling Deflation on Large Symmetric Spiked Tensors"**. [[preprint](https://melaseddik.github.io/files/gretsi23_symdeflation.pdf)]
+
 > MEA.Seddik, M.Mahfoud, M.Debbah, **"Optimizing Orthogonalized Tensor Deflation via Random Tensor Theory"**. [[arxiv](https://arxiv.org/abs/2302.05798)]
 
 2022
