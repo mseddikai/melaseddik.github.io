@@ -5,15 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Main Papers
---
-> MEA.Seddik, M.Guillaud, R.Couillet, **"When Random Tensors meet Random Matrices"**, *Annals of Applied Probability*. [[arxiv](https://arxiv.org/abs/2112.12348)] [[poster](https://melaseddik.github.io/files/posters/poster_cirm2022.pdf)] [[slides](https://melaseddik.github.io/files/slides/slides_gretsi_2022_en.pdf)]
-
-> MEA.Seddik, C.Louart, M.Tamaazousti, R.Couillet, **"Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures"**, *ICML'2020*. [[paper](https://melaseddik.github.io/files/rmt4gan.pdf)] [[arxiv](https://arxiv.org/abs/2001.08370)] [[slides](https://melaseddik.github.io/files/slides/slides_rmt4gan_icml_2020.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/rmt4gan.txt)]
-
-Contributions
---
-
 2023
 ---
 > MEA.Seddik, JHM.Goulart, M.Guillaud, **"Hotelling Deflation on Large Symmetric Spiked Tensors"**. [[preprint](https://melaseddik.github.io/files/gretsi23_symdeflation.pdf)]
