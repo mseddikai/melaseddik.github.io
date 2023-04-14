@@ -13,6 +13,8 @@ Main papers
 ---
 > MEA.Seddik, JHM.Goulart, M.Guillaud, **"Hotelling Deflation on Large Symmetric Spiked Tensors"**. [[preprint](https://melaseddik.github.io/files/gretsi23_symdeflation.pdf)]
 
+> MEA.Seddik, M.Tiomoko, A.Decurninge, M.Guillaud, M. Panov, **"Learning from Low Rank Tensor Data: A Random Tensor Theory Perspective"**. [[preprint](https://melaseddik.github.io/files/uai2023.pdf)]
+
 > MEA.Seddik, M.Mahfoud, M.Debbah, **"Optimizing Orthogonalized Tensor Deflation via Random Tensor Theory"**. [[arxiv](https://arxiv.org/abs/2302.05798)]
 
 2022
@@ -20,8 +22,6 @@ Main papers
 > MEA.Seddik, M.Guillaud, A.Decurninge, **"On the Accuracy of Hotelling-Type Tensor Deflation: A Random Tensor Analysis"**. [[preprint](https://melaseddik.github.io/files/icassp2023.pdf)] [[arxiv](https://arxiv.org/abs/2211.09004)]
 
 > MEA.Seddik, M.Guillaud, R.Couillet, **"Quand les tenseurs aléatoires rencontrent les matrices aléatoires"**, *Gretsi'2022*. [[paper](https://melaseddik.github.io/files/Gretsi_2022.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_cirm2022.pdf)] [[slides_fr](https://melaseddik.github.io/files/slides/slides_gretsi_2022_fr.pdf)] [[slides_en](https://melaseddik.github.io/files/slides/slides_gretsi_2022_en.pdf)]
-
-> MEA.Seddik, A.Decurninge, M.Tiomoko, M.Guillaud, **"On Learning from Low Rank Tensor Data: A Random Tensor Theory Perspective"**. [[preprint](https://melaseddik.github.io/files/aistats2023.pdf)]
 
 > M.Tiomoko, E.Schnoor, MEA.Seddik, I.Colin, A.Virmaux, **"Deciphering Lasso-based Classification Through a Large Dimensional Analysis of the Iterative Soft-Thresholding Algorithm"**, *ICML'2022*. [[paper](https://melaseddik.github.io/files/icml22_lasso.pdf)] [[poster](https://melaseddik.github.io/files/posters/icml22_lasso_poster.pdf)]
 
