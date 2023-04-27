@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Main papers
+Main Papers
 ---
 > MEA.Seddik, M.Guillaud, R.Couillet, **"When Random Tensors meet Random Matrices"**, *Annals of Applied Probability*. [[arxiv](https://arxiv.org/abs/2112.12348)] [[poster](https://melaseddik.github.io/files/posters/poster_cirm2022.pdf)] [[slides](https://melaseddik.github.io/files/slides/slides_random_tensors.pdf)]
 
