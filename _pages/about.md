@@ -16,6 +16,7 @@ Welcome to my academic webpage! I'm a senior researcher at the [Technology Innov
 
 News
 -
+- 19/04/23: Talk about [spike recovery from random tensors](http://math.univ-lyon1.fr/~vignes/pmwiki/Docs/TJC/TJC-20230419-Seddik.pdf) at the [Tensor Journal Club](http://math.univ-lyon1.fr/homes-www/vignes/TJC/Now).
 - 28/03/23: [When Random Tensors meet Random Matrices](https://arxiv.org/abs/2112.12348) accepted at the [Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability/).
 - 15/02/23: Talk about [random tensors](https://melaseddik.github.io/files/slides/slides_random_tensors.pdf) at the [Abu Dhabi Stochastics Seminar](https://wp.nyu.edu/adps/).
 
