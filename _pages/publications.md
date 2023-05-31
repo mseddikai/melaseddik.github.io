@@ -11,9 +11,9 @@ Main Papers
 
 2023
 ---
-> MEA.Seddik, M.Achab, JHM.Goulart, M.Debbah, **"A Nested Matrix-Tensor Model for Noisy Multi-view Clustering"**. [[preprint](https://melaseddik.github.io/files/nested_neurips23_preprint.pdf)]
+> MEA.Seddik, M.Achab, JHM.Goulard, M.Debbah, **"A Nested Matrix-Tensor Model for Noisy Multi-view Clustering"**. [[preprint](https://melaseddik.github.io/files/nested_neurips23_preprint.pdf)]
 
-> MEA.Seddik, JHM.Goulart, M.Guillaud, **"Hotelling Deflation on Large Symmetric Spiked Tensors"**. [[preprint](https://melaseddik.github.io/files/gretsi23_symdeflation.pdf)]
+> MEA.Seddik, JHM.Goulard, M.Guillaud, **"Hotelling Deflation on Large Symmetric Spiked Tensors"**. [[preprint](https://melaseddik.github.io/files/gretsi23_symdeflation.pdf)]
 
 > MEA.Seddik, M.Tiomoko, A.Decurninge, M. Panov, M.Guillaud, **"Learning from Low Rank Tensor Data: A Random Tensor Theory Perspective"**. [[preprint](https://melaseddik.github.io/files/uai2023.pdf)]
 
